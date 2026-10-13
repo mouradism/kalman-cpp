@@ -1,0 +1,20 @@
+# Ignore all markdown files (*.md)
+*.md
+
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
