@@ -1,5 +1,6 @@
 # Ignore all markdown files (*.md)
 *.md
+!README.md
 
 # Build directories
 build/
